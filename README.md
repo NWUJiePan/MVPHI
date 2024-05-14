@@ -25,4 +25,11 @@ Concerning the parameter settings of the comparison methods, it is explicitly me
 
 # Dataset of PBIs and BBIs
 
-The preprocessed datasets are available at https://cn.string-db.org/ , https://www.ncbi.nlm.nih.gov/ , https://www.uniprot.org/ and https://millardlab.org.
+The preprocessed datasets are available at:
+https://cn.string-db.org/ 
+
+https://www.ncbi.nlm.nih.gov/ 
+
+https://www.uniprot.org/ 
+
+https://millardlab.org
