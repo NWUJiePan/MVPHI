@@ -4,12 +4,19 @@ A transformer-based framework for predicting phage-bacteria interactions via mul
 # Enverioment
 
 python>=3.7.0
+
 numpy>=1.14
+
 networkx>=2.0
+
 scipy>=0.19.1
+
 scikit-learn>=0.19.0
+
 torch>=1.13.1
+
 torchvision>=0.14.1
+
 transformers>=4.30.0
 
 
