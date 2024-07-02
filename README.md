@@ -1,5 +1,4 @@
-# MVPHI
-MVPHI: A Transformer-Based Deep Learning Framework for Predicting Phage-Host Interactions via Multi-Attributed Microbial Information
+# A Deep Learning-Based Framework for Accurate Prediction of Phage-bacteria Interactions via Heterogeneous Multi-Source Microbial Information
 
 # Enverioment
 
